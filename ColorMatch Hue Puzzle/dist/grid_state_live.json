@@ -1,0 +1,212 @@
+[
+    [
+        {
+            "movable": 0,
+            "color": "#4b4aca"
+        },
+        {
+            "movable": 0,
+            "color": "#5545c9"
+        },
+        {
+            "movable": 0,
+            "color": "#633fc5"
+        },
+        {
+            "movable": 0,
+            "color": "#6c38bf"
+        },
+        {
+            "movable": 0,
+            "color": "#7a31be"
+        },
+        {
+            "movable": 0,
+            "color": "#852cba"
+        },
+        {
+            "movable": 0,
+            "color": "#8f28b7"
+        }
+    ],
+    [
+        {
+            "movable": 0,
+            "color": "#685bb3"
+        },
+        {
+            "movable": 1,
+            "color": "#7151b2"
+        },
+        {
+            "movable": 1,
+            "color": "#794ab2"
+        },
+        {
+            "movable": 0,
+            "color": "#8340b1"
+        },
+        {
+            "movable": 1,
+            "color": "#8a36ae"
+        },
+        {
+            "movable": 1,
+            "color": "#932fac"
+        },
+        {
+            "movable": 0,
+            "color": "#9b26a9"
+        }
+    ],
+    [
+        {
+            "movable": 0,
+            "color": "#826e9f"
+        },
+        {
+            "movable": 1,
+            "color": "#8a63a2"
+        },
+        {
+            "movable": 1,
+            "color": "#91589f"
+        },
+        {
+            "movable": 0,
+            "color": "#954ba0"
+        },
+        {
+            "movable": 1,
+            "color": "#9c3da1"
+        },
+        {
+            "movable": 1,
+            "color": "#a2319d"
+        },
+        {
+            "movable": 0,
+            "color": "#a8279e"
+        }
+    ],
+    [
+        {
+            "movable": 0,
+            "color": "#a5818d"
+        },
+        {
+            "movable": 0,
+            "color": "#a6718d"
+        },
+        {
+            "movable": 0,
+            "color": "#a7628e"
+        },
+        {
+            "movable": 0,
+            "color": "#aa5590"
+        },
+        {
+            "movable": 0,
+            "color": "#ac4692"
+        },
+        {
+            "movable": 0,
+            "color": "#b03590"
+        },
+        {
+            "movable": 0,
+            "color": "#b52594"
+        }
+    ],
+    [
+        {
+            "movable": 0,
+            "color": "#c29576"
+        },
+        {
+            "movable": 1,
+            "color": "#c1827b"
+        },
+        {
+            "movable": 1,
+            "color": "#c0707d"
+        },
+        {
+            "movable": 0,
+            "color": "#bf5b7d"
+        },
+        {
+            "movable": 1,
+            "color": "#c04b82"
+        },
+        {
+            "movable": 1,
+            "color": "#bd3983"
+        },
+        {
+            "movable": 0,
+            "color": "#c02688"
+        }
+    ],
+    [
+        {
+            "movable": 0,
+            "color": "#dea762"
+        },
+        {
+            "movable": 1,
+            "color": "#da9164"
+        },
+        {
+            "movable": 1,
+            "color": "#d77c6a"
+        },
+        {
+            "movable": 0,
+            "color": "#d6646e"
+        },
+        {
+            "movable": 1,
+            "color": "#d05172"
+        },
+        {
+            "movable": 1,
+            "color": "#cd3b79"
+        },
+        {
+            "movable": 0,
+            "color": "#ca267c"
+        }
+    ],
+    [
+        {
+            "movable": 0,
+            "color": "#fdbb4d"
+        },
+        {
+            "movable": 0,
+            "color": "#f6a051"
+        },
+        {
+            "movable": 0,
+            "color": "#f08858"
+        },
+        {
+            "movable": 0,
+            "color": "#e9705f"
+        },
+        {
+            "movable": 0,
+            "color": "#e35764"
+        },
+        {
+            "movable": 0,
+            "color": "#db3e69"
+        },
+        {
+            "movable": 0,
+            "color": "#d7256f"
+        }
+    ]
+]
