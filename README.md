@@ -1,3 +1,4 @@
+# ColorMatch Hue Puzzle
 ColorMatch Hue Puzzle is a game developed by Rolf Genree L. Garces as his final project for CMSC 122: Data Structures and Algorithm I.
 This is inspired by Color Puzzle and all the level configuration are taken from the game.
 This game features dynamic grid challenges with varied grid sizes and randomized tile placements at each level. 
